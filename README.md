@@ -33,6 +33,7 @@ Table of Contents
    * [Vector search](#vector-search)
 * [Data](#data)
    * [Data Management](#data-management)
+   * [Data Orchestration and Acceleration](#data-orchestration-and-acceleration)
    * [Data Storage](#data-storage)
    * [Data Tracking](#data-tracking)
    * [Feature Engineering](#feature-engineering)
@@ -241,6 +242,11 @@ Lake is a dataset format with a simple API for creating, storing, and collaborat
 - [Quilt](https://github.com/quiltdata/quilt) ![](https://img.shields.io/github/stars/quiltdata/quilt.svg?style=social) - A self-organizing data hub for S3.
 
 **[⬆ back to ToC](#table-of-contents)**
+
+## Data Orchestration and Acceleration
+
+- [Alluxio](https://github.com/Alluxio/alluxio) ![](https://img.shields.io/github/stars/Alluxio/alluxio.svg?style=social) - Alluxio, data orchestration for analytics and machine learning in the cloud.
+- [Fluid](https://github.com/fluid-cloudnative/fluid) ![](https://img.shields.io/github/stars/fluid-cloudnative/fluid.svg?style=social) - Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. (Project under CNCF)
 
 ## Data Storage
 
